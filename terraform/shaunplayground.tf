@@ -12,6 +12,7 @@ module "shaunplayground" {
 
   account_tags = {
     "Learn Tutorial" = "AFT"
+    "Creator" = "shaun"
   }
 
   change_management_parameters = {
