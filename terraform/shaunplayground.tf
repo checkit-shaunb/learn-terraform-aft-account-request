@@ -4,7 +4,7 @@ module "shaunplayground" {
   control_tower_parameters = {
     AccountEmail              = "shaun.d.bradley@gmail.com"
     AccountName               = "shaunplayground"
-    ManagedOrganizationalUnit = "root"
+    ManagedOrganizationalUnit = "Learn AFT"
     SSOUserEmail              = "shaun.bradley@checkit.net"
     SSOUserFirstName          = "shaun"
     SSOUserLastName           = "playground"
