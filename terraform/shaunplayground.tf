@@ -5,7 +5,7 @@ module "shaunplayground" {
     AccountEmail              = "shaun.d.bradley@gmail.com"
     AccountName               = "shaunplayground"
     ManagedOrganizationalUnit = "Learn AFT"
-    SSOUserEmail              = "shaun.d.bradley@gmail.com"
+    SSOUserEmail              = "shaun.bradley@checkit.net"
     SSOUserFirstName          = "shaun"
     SSOUserLastName           = "playground"
   }
