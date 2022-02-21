@@ -4,7 +4,7 @@ module "prod" {
   control_tower_parameters = {
     AccountEmail              = "aws_root_prod@checkit.net"
     AccountName               = "Prod-Account"
-    ManagedOrganizationalUnit = "LearnAFT"
+    ManagedOrganizationalUnit = "Learn AFT"
     SSOUserEmail              = "shaun.bradley@checkit.net"
     SSOUserFirstName          = "Prod"
     SSOUserLastName           = "Account"
