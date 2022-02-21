@@ -16,7 +16,7 @@ module "prod" {
 
   change_management_parameters = {
     change_requested_by = "Shaun Bradley"
-    change_reason       = "Initial AWS account creation"
+    change_reason       = "Initial Prod Account creation"
   }
 
   custom_fields = {
