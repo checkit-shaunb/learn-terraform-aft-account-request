@@ -20,7 +20,7 @@ module "prod" {
   }
 
   custom_fields = {
-    group = "non-prod"
+    group = "prod"
   }
 
   account_customizations_name = "Prod"
