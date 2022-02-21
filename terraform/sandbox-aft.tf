@@ -15,8 +15,8 @@ module "sandbox" {
   }
 
   change_management_parameters = {
-    change_requested_by = "HashiCorp Learn"
-    change_reason       = "Still testing I'm afraid"
+    change_requested_by = "Shaun Bradley"
+    change_reason       = "Why isn't this attaching to the OU?"
   }
 
   custom_fields = {
