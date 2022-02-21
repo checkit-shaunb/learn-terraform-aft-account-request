@@ -4,7 +4,7 @@ module "stage" {
   control_tower_parameters = {
     AccountEmail              = "aws_root_stage@checkit.net"
     AccountName               = "Stage-Account"
-    ManagedOrganizationalUnit = "LearnAFT"
+    ManagedOrganizationalUnit = "Learn AFT"
     SSOUserEmail              = "shaun.bradley@checkit.net"
     SSOUserFirstName          = "Stage"
     SSOUserLastName           = "Account"
